@@ -1,0 +1,138 @@
+body{
+		background:url(img/a11.jpg);
+		background-size:100%;
+		background-repeat:no-repeat;
+		background-attachment:;}
+#container {
+				width:100%;
+				height:100%;
+			}
+#container #top {
+					background:;
+					width:100%;
+					height:100px;
+					text-align:center;
+					padding-top:8px;
+					box-sizing:border-box;
+}
+#container #top h1{
+					font-size:30px;
+					}
+#container #box{width:500px;
+						Height:1200px;
+						background:#f2f2f2;
+						border-radius:5px;
+						padding:0 20;
+						margin:auto;
+						margin-top:50px;
+						text-align:centre;
+						opacity:0.9;
+						display:;
+						box-shadow:10px 10px 5px #aaa;
+					}
+#container #box #head{
+						background:;
+						width:100%;
+						margin-top:10px;
+						height:50px;
+						text-align:center;
+						box-sizing:border-box;
+						padding-top:5px;
+}
+#container #box #head h3{
+							font:35px "";
+							margin-top:10px;
+}
+#container #box ol{
+					width:350px;
+					background:;
+					padding:10 20;
+					display:inline-block;
+					list-style-type:none;
+}
+#container #box ol li{
+					background:;
+					margin-top:10px;
+					width:350px;
+					height:50px;
+					border:3px solid #999;
+					border-radius:10px;
+					box-sizing:border-box;
+}
+#container #box ol li b{
+						margin-left:-130px;
+						
+					}
+#container #box ol li #img{
+						float:left;
+						height:100%;
+						width:30%;
+						background:;
+						margin-top:px;
+						border-radius:10px;
+}
+#container #box ol li #img img{
+							height:100%;
+							width:100%;
+							border-radius:10px;
+							}
+#container #box ol li #name{
+							height:100%;
+							width:65%;
+							background:;
+							
+							margin-left:40%;
+							border-radius:10px;
+							box-sizing:border-box;
+							padding-left:10;
+							padding-bottom:2px;
+}
+#container #box ol li #name h5{
+								margin-top:-9px;
+								margin-right:-10px;
+								font:17px "arial";
+								margin-top:;
+							}
+#container #box #vote{
+						height:980;
+						width:100px;
+						float:right;
+						background:;
+						margin-top:15px;
+						display:inline-block;
+}
+#container #box #vote ul{
+							background:;
+							width:50px;
+							margin-top:20px;
+							list-style-type:none;
+						}
+#container #box #vote ul li{
+							background:;
+							margin-top:10px;
+							height:50px;
+							border:3px solid #999;
+							border-radius:10px;
+							box-sizing:border-box;
+							text-align:center;
+							}
+#container #box #vote ul li input{
+								margin-top:15px;
+}
+#container #box #cast{
+						width:100%;
+						height:50px;
+						text-align:center;
+						background-color:#4caf50;
+						box-sizing:border-box;
+						padding-top:10px;
+						border-radius:10px;
+						border:none;
+						cursor:pointer;
+}
+#container #box #cast a{
+						font:25px "Impact";
+						color:white;
+						text-decoration:none;
+					
+}
